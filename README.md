@@ -3,7 +3,8 @@ Created by Paul Stultz
 
 ---------------------------------
 
-## Disclaimer: TKExplorer has minimal security features. It's designed to demonstrate the capabilities of Python 3.12.1 and existing libraries in creating a basic browser. It cannot run JavaScript and is intended for safe, well-established websites.
+## Disclaimer: TKExplorer has minimal security features.
+It's designed to demonstrate the capabilities of Python 3.12.1 and existing libraries in creating a basic browser. It cannot run JavaScript and is intended for safe, well-established websites.
 
 ## Prerequisites
 - Python installed as a Windows app. You can download it from the Microsoft Store (https://www.microsoft.com/store/productId/9PJPW5LDXLZ5).
@@ -19,13 +20,9 @@ These can be installed with pip through the command prompt, here are the command
 - Graphical interface is a step above text browsers like Lynx.
 - Back and Forward buttons for simple navigation.
 
-## This project is a showcase of rapid development using Python and is not intended for practical web browsing.
+This project is a showcase of rapid development using Python and is not intended for practical web browsing.
 
 ## Feedback and Contact:
 - https://VisitPaul.com
-
-I hope you enjoy exploring TKExplorer!
-
-    VisitPaul.com
 
 I hope you enjoy exploring TKExplorer!
